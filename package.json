@@ -1,0 +1,27 @@
+{
+  "name": "curso-evm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/curso-evm.git"
+  },
+  "keywords": [],
+  "author": "Fabricio Angel Dupraz <duprazfabricio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platzi/curso-evm/issues"
+  },
+  "homepage": "https://github.com/platzi/curso-evm#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
